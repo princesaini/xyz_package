@@ -1,0 +1,22 @@
+{
+  "name": "xyz_package",
+  "version": "1.0.0",
+  "description": "Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princesaini/xyz_package.git"
+  },
+  "keywords": [
+    "XYZ"
+  ],
+  "author": "Prince Saini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/princesaini/xyz_package/issues"
+  },
+  "homepage": "https://github.com/princesaini/xyz_package#readme"
+}
